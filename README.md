@@ -1,4 +1,5 @@
 #House price prediction 
+
 House price prediction using machine learning (ML) works by training a model to learn the relationships between various features or attributes of houses and their corresponding prices. The goal is to create a model that can make accurate price predictions for new, unseen houses based on their characteristics. Here's a step-by-step explanation of how it works:
 
 Data Collection: The first step is to gather a dataset that contains historical information about houses, including features such as square footage, number of bedrooms, number of bathrooms, location, year built, lot size, and any other relevant attributes. This dataset should also include the actual sale prices of these houses.
